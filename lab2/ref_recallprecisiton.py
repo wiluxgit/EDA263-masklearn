@@ -1,3 +1,9 @@
+class MultiScore:
+    def __init__(self, PRCurve=None, F1Score=None):
+        self.PRCurve = PRCurve
+        self.Recall = PRCurve[0]
+        self.Precision = PRCurve[1]
+        
 def getCurves(name2fitted, dataSet=None):
     ret = {}
     for name, pipe in name2fitted.items():
