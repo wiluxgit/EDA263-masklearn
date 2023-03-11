@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.10.0",
+    "heartbeatAt": "2023-03-11T19:38:52.805588",
+    "startedAt": "2023-03-11T19:38:52.704748",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/wiluxgit/EDA263-masklearn.git",
+        "commit": "ca0df1b9a775e5ce2bd30a9490f400332c9433fd"
+    },
+    "email": "oscdah@student.chalmers.se",
+    "root": "C:/wilux/git/EDA263-masklearn",
+    "host": "LAPTOP-RN3U3UJ3",
+    "username": "wilux",
+    "executable": "c:\\Users\\wilux\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1803.0,
+        "min": 0.0,
+        "max": 2304.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1803.0,
+            "min": 0.0,
+            "max": 2304.0
+        }
+    ],
+    "disk": {
+        "total": 952.1819496154785,
+        "used": 281.7711181640625
+    },
+    "gpu": "NVIDIA GeForce MX250",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX250",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.803524017333984
+    }
+}
