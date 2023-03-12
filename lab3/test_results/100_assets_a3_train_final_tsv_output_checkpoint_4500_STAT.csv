@@ -1,0 +1,11 @@
+,0
+test file,assets/a3_train_final.tsv
+model path,output/checkpoint-4500
+recall,0.9375
+precision,0.8653846153846154
+f1,0.9
+accuracy,0.9
+#samples,100
+  #correct samples,90
+  #false negatives,3
+  #false positives,7
